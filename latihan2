@@ -1,0 +1,11 @@
+<html>
+    <head><title>pemrograman web.HTML</title></head>
+        <body bgcolor="#00ffff"
+        <h1>SMK TEXMACO SEMARANG</h1>
+        <br>
+        <p><label>Nama:Donis cahaya pratama</label>
+        <p><label>Kelas: X RPL1</label></p>
+        <br>
+        Jenis Kelamin: Laki laki
+        </body>
+</html>
